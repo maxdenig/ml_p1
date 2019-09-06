@@ -1,6 +1,6 @@
 ## Machine Learning Project (Python)
 ## Max Reinheimer dos Santos Denig
- Project made on PyCharm.
+ Project made in PyCharm.
  
  Python project consisting of designing a pipeline and use it to test models through benchmarks and get the best results we could solving the problem.
  
