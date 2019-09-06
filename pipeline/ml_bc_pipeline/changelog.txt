@@ -1,0 +1,10 @@
+V6.5
+Files Modified:
+__init__.py
+model.py
+
+
+* Implemented plotting of average precision and recall for each model (chi and dta selection) and saving of them as images
+  on folder summary.
+
+* Fixed typos on __init__ on voting model.
