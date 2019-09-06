@@ -1,4 +1,3 @@
-# ml_p1
 ## Machine Learning Project (Python)
 ## Max Reinheimer dos Santos Denig
  Project made on PyCharm.
